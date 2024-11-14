@@ -24,10 +24,19 @@ Please use the scripts to run the experiments, for example:
 ## Citation
 ```
 @inproceedings{li2024fedbat,
-  title={FedBAT: Communication-Efficient Federated Learning via Learnable Binarization},
-  author={Shiwei Li and Wenchao Xu and Haozhao Wang and Xing Tang and Yining Qi and Shijie Xu and Weihong Luo and Yuhua Li and Xiuqiang He and Ruixuan Li},
-  booktitle={International Conference on Machine Learning},
-  pages={xxx--xxx},
-  year={2024}
+  author       = {Shiwei Li and
+                  Wenchao Xu and
+                  Haozhao Wang and
+                  Xing Tang and
+                  Yining Qi and
+                  Shijie Xu and
+                  Weihong Luo and
+                  Yuhua Li and
+                  Xiuqiang He and
+                  Ruixuan Li},
+  title        = {FedBAT: Communication-Efficient Federated Learning via Learnable Binarization},
+  booktitle    = {Forty-first International Conference on Machine Learning, {ICML} 2024,
+                  Vienna, Austria, July 21-27, 2024},
+  year         = {2024},
 }
 ```
